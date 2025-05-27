@@ -4,7 +4,7 @@ I'm a Python developer with a strong interest in Machine Learning and Natural La
 
 ---
 
-### Project Approach
+### ✨ Project Approach
 
 I like to approach projects with practical and results-oriented mindset. My areas of interest and the type of projects I've worked on include:
 
@@ -25,7 +25,7 @@ Here are some of the tools and libraries I work with:
 
 ---
 
-### Let's Connect
+### 📬 Let's Connect
 
 If you're interested in collaborating on a project or have any questions, feel free to reach out:
 
