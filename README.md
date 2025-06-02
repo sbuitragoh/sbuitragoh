@@ -8,7 +8,7 @@ I'm a Python developer with a strong interest in Machine Learning and Natural La
 
 I like to approach projects with practical and results-oriented mindset. My areas of interest and the type of projects I've worked on include:
 
-* **Data Analysis and Processing:** Applying tools like **Pandas an NumPy** to clean, transform and process data.
+* **Data Analysis and Processing:** Applying tools like **Polars, Pandas and NumPy** to clean, transform and process data.
 * **Automation:** Creating scripts that automate or simplify different tasks.
 * **Exploring New Technologies:** I'm always open to learning and applying new libraries, frameworks, or paradigms, especially in the fields of **Machine Learning** and **Artificial Intelligence**.
 
